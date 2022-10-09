@@ -69,7 +69,7 @@ body{
     top: 10%;
     right: 12%;
     border-radius: 50%;
-    filter: blur(20px);
+    filter: blur(21px);
     z-index: -1;
 }
 .form-container input:focus{
